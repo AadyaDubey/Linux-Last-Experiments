@@ -8,8 +8,8 @@
 * Interacting with Databases
 ***
 ***
-## Lab task 1: Write a script that takes a sentence as input and splits it into individual words.
-### Script:
+# Lab task 1: Write a script that takes a sentence as input and splits it into individual words.
+## Script:
 ```bash
 #!/bin/bash
 echo "Enter a sentence:"
@@ -21,10 +21,10 @@ do
 	echo "$word"
 done
 ```
-###  Output:
+##  Output:
 ![](./images/11t1.png)
-## Lab task 2: Create a script that checks whether a given string is a palindrome or not.
-### Script:
+# Lab task 2: Create a script that checks whether a given string is a palindrome or not.
+## Script:
 ```bash
 #!/bin/bash
 
@@ -41,7 +41,7 @@ fi
 
 exit 0
 ```
-###  Output:
+##  Output:
 ![](./images/11t2.png)
 ***
 # CONCLUSION 
