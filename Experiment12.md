@@ -123,7 +123,8 @@ exit 0
 
 ```
 # Output:
- 
+ ![](./images/12a.png)
+ ![](./images/12b.png)
 # Logic & Rules Implemented and Modifications 
 ## Logics 
 
