@@ -44,7 +44,7 @@ exit 0
 ##  Output:
 ![](./images/11t2.png)
 ***
-# CONCLUSION 
+# Conclusion
 
 * The word splitting and palindrome checking scripts were successfully implemented using basic shell scripting commands. 
 * These experiments helped in understanding string handling, loops, and conditional statements in Linux. 
