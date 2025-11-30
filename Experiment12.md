@@ -17,7 +17,7 @@ based on a set of predefined rules.
 ***
 ***
 
-# Script:
+# Script
 ```bash
 #!/bin/bash
 
@@ -122,7 +122,7 @@ exit 0
 
 
 ```
-# Output:
+# Output
  ![](./images/12a.png)
  ![](./images/12b.png)
 # Logic & Rules Implemented and Modifications 
