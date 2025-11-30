@@ -276,5 +276,4 @@ I created a total of 7 rules in the expert system, each of which contains 2–3 
 - The inclusion of example medications made the system more informative and practical.
 
 - The fallback general recommendation ensures that the system always provides guidance.
-***
- 
+
